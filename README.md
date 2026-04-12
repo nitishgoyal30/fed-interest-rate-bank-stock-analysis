@@ -2,6 +2,8 @@
 
 ## Author
 Nitish Goyal
+## Co-Author
+Dr.Anupal Mongia
 
 ## Overview
 This repository contains Python code, datasets, and regression results used in the empirical analysis of the impact of Federal Reserve interest rate changes on stock returns of major U.S. banks.
